@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!-- Verifica di TPS di Rocco Nori in data 21/11/2019 -->
+
+        <Parco attr="riepilogo" compilatoDa="Nori Rocco">
+            <nrPratica>jkhbgx1567</nrPratica>
+            <id>12345</id>
+            <sede>Roma</sede>
+            <dataRiepilogo>2019-11-21</dataRiepilogo>
+            <ora>21:32:52</ora>
+            <mezzi attr="ciao">
+
+                <mezzo>
+                    <marca>Fiat</marca>
+                    <modello>500XL</modello>
+                    <targa>df456bh</targa>
+                    <noleggiato>S</noleggiato>
+                </mezzo>
+
+        <mezzo>
+            <marca>Opel</marca>
+            <modello>corsa</modello>
+            <targa>gf564pk</targa>
+            <noleggiato>N</noleggiato>
+        </mezzo>
+
+    </mezzi>
+</Parco>

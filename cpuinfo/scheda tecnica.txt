@@ -1,0 +1,17 @@
+processor	: 0
+model name	: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+processor	: 1
+model name	: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+processor	: 2
+model name	: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+processor	: 3
+model name	: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+processor	: 4
+model name	: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+processor	: 5
+model name	: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+processor	: 6
+model name	: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+processor	: 7
+model name	: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+MemTotal:        7846736 kB

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Sel Offices</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body onload="getField()">
+
+<div class="container">
+  <h2>benvenuti nel "SelOffices" </h2>
+  <form action="./listaOffices.php" method="GET">
+    <div class="form-group">
+
+      <div class="form-group">
+        <label for="sel1">Seleziona la città dell'ufficio</label>
+        <select name="citta_ufficio" class="form-control" id="citta_ufficio">
+          <option value="">...</option>
+        </select>
+      </div>
+      
+    </div>
+
+    <div class="form-group">
+      <div class="form-group">
+        <label for="sel1">Seleziona lo stato del cliente</label>
+        <select name="stato_cliente" class="form-control" id="stato_cliente">
+          <option value="">...</option>
+        </select>
+      </div>
+    </div>
+
+    <button type="submit" id="submit" class="btn btn-success">Cerca</button>
+  </form>
+</div>
+
+<script src="../script/index.js"></script>
+
+</body>
+</html>
